@@ -20,3 +20,7 @@ coverage/
 package-lock.json
 yarn.lock
 .pnpm-debug.log
+
+# Gatsby files
+.cache/
+public/
